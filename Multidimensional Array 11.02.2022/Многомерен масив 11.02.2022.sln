@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Многомерен масив 11.02.2022", "Многомерен масив 11.02.2022\Многомерен масив 11.02.2022.csproj", "{34D12815-FEC1-4BA3-ABC0-5F75B36C4D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D12815-FEC1-4BA3-ABC0-5F75B36C4D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D12815-FEC1-4BA3-ABC0-5F75B36C4D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D12815-FEC1-4BA3-ABC0-5F75B36C4D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D12815-FEC1-4BA3-ABC0-5F75B36C4D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43AD8FD5-9E81-43FC-A497-6A5D55049581}
+	EndGlobalSection
+EndGlobal
